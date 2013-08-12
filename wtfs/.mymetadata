@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wtfs"
+  id="myeclipse.1376268626061"
+  context-root="/wtfs"
+  j2ee-spec="6.0"
+  archive="wtfs.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
